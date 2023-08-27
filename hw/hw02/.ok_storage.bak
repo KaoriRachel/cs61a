@@ -1,0 +1,7 @@
+'product-correct', (0, 66)
+'accumulate-correct', (512, 66)
+'make_repeater-correct', (1024, 66)
+'church_to_int-correct', (1536, 66)
+'add_church-correct', (2048, 66)
+'mul_church-correct', (2560, 66)
+'pow_church-correct', (3072, 66)

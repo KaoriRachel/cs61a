@@ -1,0 +1,5 @@
+'reverse_recursive-correct', (0, 66)
+'reverse_iter-correct', (512, 66)
+'distance-correct', (1024, 66)
+'check_abstraction-correct', (1536, 66)
+'add_chars-correct', (2048, 66)
